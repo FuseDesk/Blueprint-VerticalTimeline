@@ -1,0 +1,13 @@
+{
+  "name": "fd-blueprint-vertical-timeline",
+  "title": "Knockout wrap",
+  "version": "1.0.1",
+  "description": "Blueprint-vertical-timeline",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuseDesk/Blueprint-VerticalTimeline"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/FuseDesk/Blueprint-VerticalTimeline.git"
+}
